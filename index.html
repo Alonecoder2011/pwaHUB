@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>PwaHUB</title>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:regular,bold,italic,thin,light,bolditalic,black,medium&amp;lang=en">
+    <link rel="stylesheet" href="node_modules/material-design-icons/iconfont/material-icons.css">
+    <link rel="stylesheet" href="css/material.min.css">
+    <link rel="stylesheet" href="css/main.css">
+</head>
+
+<body>
+    <h1>PwaHUB Test Build! Do not release!</h1>
+    <h1>Exploit: PwaPWN</h1>
+    <p>Discorvered by connor walsh!</p>
+    <p>Exploit: PwaPWN is a PWA exploit that allows for the installation of a app that is perma-unblocked!</p>
+    <iframe id="ifview" src="https://google.com" style="height:500px;width:100%"></iframe>
+    <input id="url" type="text" style="width: 80%">INPUT URL</body>
+    <button onclick="go_to()">Go</button>
+    <button onclick="reload()">Reload</button>
+    <h1>Btw, Teachers cannot see this browser in a browser!</h1>
+
+    <script>
+        function byId(id) {
+            return document.getElementById(id);
+        }
+    
+        var target_iframe = byId('ifview');
+        var url = byId('url');
+
+        function go_to() {
+            target_iframe.src = url.value;
+        }
+
+        function reload() {
+            target_iframe.src = target_iframe.src;
+        }
+    </script>
+</body>
+</html>

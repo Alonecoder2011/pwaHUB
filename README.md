@@ -26,6 +26,7 @@ Im working on a pwaHUB installer binary TM
 # Install v0.9 (The proof of concept)
 ```
 scroll down for eazier linux method....
+install nodeJS from this link (make sure to tick add to path): https://nodejs.org/dist/v21.6.2/node-v21.6.2-x64.msi
 extract build.zip
 in the folder right click and select run in terminal or whatever it is!
 Enter the following commands:

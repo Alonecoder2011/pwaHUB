@@ -9,6 +9,8 @@ Please dont do this, this is mainly for sysadmins, of course pepole are going to
 Enter a url in the thingy and hit search, the teachers cannot see pwaHub (Some websites wont work (alot) because some hackers abuse iframes to preform clickjacking attempts!)
 # I need help?
 Create a issue (you need a github acct) or contact me!
+# can i run look up whatever!111!!!!11
+In v1.0.0 RC / FB (wait wait wait) WAIT!!!!!!
 # How do i install when its ready
 ```
 Update from the POC (v0.9) to v1.0.0 RC
@@ -17,6 +19,10 @@ How?
 Wait for v1.0.0 RC to come out...
 
 ```
+# Install without computer
+Give me some time to work on hosting, For now you need to host it your self with the steps bellow!
+# Can it be eazier to host it locally
+Im working on a pwaHUB installer binary TM
 # Install v0.9 (The proof of concept)
 ```
 scroll down for eazier linux method....
